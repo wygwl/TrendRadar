@@ -36,8 +36,6 @@ HarmonyOS
 华为Mate系列
 华为Pura系列
 华为智能汽车
-智能穿戴
-智能家居
 OpenEuler
 华为数通
 华为HiLink
@@ -45,7 +43,6 @@ OpenEuler
 华为自研通用芯片
 华为光通信
 华为商城
-鲲鹏处理器
 
 比亚迪  
 王传福
@@ -71,11 +68,6 @@ DJI
 大疆御Mini
 大疆Osmo
 大疆Ronin
-农业无人机
-测绘无人机
-消防无人机
-安防无人机
-行业应用无人机
 大疆行动
 大疆机器人
 大疆FPV
@@ -87,37 +79,15 @@ DJI
 人形机器人  
 四足机器人  
 Unitree Robotics
-机械狗
-机器忍者
 宇树B系列
 宇树A系列
-机器人算法
-仿生机器人
 
 智元  
 灵犀  
 稚晖君  
 彭志辉
 智元机器人
-开源生态
-嵌入式开发
-智能硬件  
-智能模块  
 OpenHarmony  
-国产单板机
-
-影之刃零  
-梁其伟  
-灵游坊  
-国产动作游戏  
-武侠题材  
-画风独特  
-硬核战斗  
-独立音乐  
-Steam  
-主机游戏  
-动作RPG  
-国产新作  
 
 京东
 刘强东
@@ -174,9 +144,7 @@ AI换脸
 新媒体科技
 内容平台
 图文社区
-海外扩张
 信息流
-数据安全
 
 特斯拉
 马斯克
@@ -196,7 +164,6 @@ Optimus机器人
 特斯拉光伏
 特斯拉辅助驾驶FSD
 特斯拉出租车
-自动驾驶
 
 微软
 微软云
@@ -241,7 +208,6 @@ NVIDIA DRIVE
 NVIDIA Jetson
 NVIDIA Instinct
 NVIDIA Omniverse
-芯片产业链  
 
 AMD
 Lisa Su
@@ -276,7 +242,6 @@ Google Pixel
 Google Cloud
 Google Quantum AI
 Waymo
-Play商店
 
 ChatGPT
 OpenAI
@@ -295,26 +260,20 @@ Anthropic RFP
 Dario Amodei
 Constitutional AI
 AI伦理
-对齐技术
-大模型安全
 隐私保护
 AI透明化
-AI政策
 
 Whisper
 DALL·E
 OpenAI Gym
 OpenAI API
 OpenAI Robotics
-OpenAI模型监管
 Sora视频模型
 OpenAI Recall
 GPT Store
 Superalignment
 AI视觉识别
-AI输出监管
 OpenAI投资
-OpenAI企业版
 
 iphone  
 ipad  
@@ -339,20 +298,16 @@ iCloud
 Face ID
 
 AI
-人工智能
 智能体
 AIGC  
 生成式内容  
 AI行业动态  
-算力平台  
 AI创业  
 智能安防  
 AI自动化  
-智慧城市  
 AI教育  
 AI医疗  
 AI互联网  
-生成模型  
 AI画图  
 
 自动驾驶  
@@ -365,9 +320,7 @@ ADAS
 自动导航  
 智能交通  
 智能出行  
-数据仿真  
 自动驾驶法规  
-出行安全  
 
 机器人  
 人形机器人  
@@ -378,16 +331,9 @@ ADAS
 家庭机器人  
 智能机器狗  
 机器人展会  
-机器人操作系统  
 仿生机器人  
 协作机器人  
-机器人算法  
-机器人教育  
 物流机器人
 
 国际科技  
-全球产业链  
-跨国投资  
 尖端技术  
-全球贸易  
-科技合作
